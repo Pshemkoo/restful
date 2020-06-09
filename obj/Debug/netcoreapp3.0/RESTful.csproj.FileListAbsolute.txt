@@ -10,9 +10,15 @@ C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\bin\Debug\netcoreapp3
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.csprojAssemblyReference.cache
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\staticwebassets\RESTful.StaticWebAssets.Manifest.cache
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\staticwebassets\RESTful.StaticWebAssets.xml
-C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.AssemblyInfoInputs.cache
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.AssemblyInfo.cs
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.RazorTargetAssemblyInfo.cache
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.dll
 C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.pdb
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.csproj.CopyComplete
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PrzemysławNoskowicz\source\repos\RESTful\RESTful\obj\Debug\netcoreapp3.0\RESTful.MvcApplicationPartsAssemblyInfo.cache
